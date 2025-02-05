@@ -44,7 +44,7 @@ usernames = [
 ```
 
 #### Sample Output (CSV):
-<img width="700" alt="twitter_profiles_data" src="https://github.com/user-attachments/assets/450d920a-4760-463b-9670-8ac1264b6409" />
+<img width="700" alt="twitter_profiles_data" src="https://github.com/luminati-io/twitter-scraper/blob/main/Images/408877618-450d920a-4760-463b-9670-8ac1264b6409.png" />
 
 ### 2. Post Scraping
 Collect engagement metrics for specific tweets
@@ -110,7 +110,7 @@ A robust, scalable, and reliable solution for large-scale Twitter data extractio
 ### 1. Scrape Posts by URL
 Extract detailed engagement metrics and content for specific tweets using their URLs.
 
-<img width="700" alt="twitter-posts-scraper" src="https://github.com/user-attachments/assets/9d07a475-2e3b-45fc-ae8e-ebcd7cef367b" />
+<img width="700" alt="twitter-posts-scraper" src="https://github.com/luminati-io/twitter-scraper/blob/main/Images/409213804-9d07a475-2e3b-45fc-ae8e-ebcd7cef367b.png" />
 
 
 #### Request Parameters:
@@ -158,7 +158,7 @@ posts = [
 ### 2. Scrape Profile Data
 Extract comprehensive profile information, including recent posts and engagement metrics.
 
-<img width="600" alt="twitter-profile-scraper" src="https://github.com/user-attachments/assets/3b3e2f0f-30bc-45d9-b9bc-13358b22a55a" />
+<img width="600" alt="twitter-profile-scraper" src="https://github.com/luminati-io/twitter-scraper/blob/main/Images/409214197-3b3e2f0f-30bc-45d9-b9bc-13358b22a55a.png" />
 
 #### Request Parameters:
 
