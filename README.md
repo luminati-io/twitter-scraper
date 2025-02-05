@@ -153,7 +153,7 @@ posts = [
     }
 }
 ```
-👉 Only key fields are shown here. See the [full JSON response](https://github.com/luminati-io/Twitter-Scraper/blob/main/twitter_data/twitter_posts.json) for all details.
+👉 Only key fields are shown here. See the [full JSON response](https://github.com/luminati-io/Twitter-Scraper/blob/main/twitter_data/twitter_posts.json) for all details. Try our dedicated [Twitter Posts Scraper](https://brightdata.com/products/web-scraper/twitter/posts) now.
 
 ### 2. Scrape Profile Data
 Extract comprehensive profile information, including recent posts and engagement metrics.
@@ -215,7 +215,7 @@ profiles = [
     ],
 }
 ```
-👉 Only key fields are shown here. See the [full JSON response](https://github.com/luminati-io/Twitter-Scraper/blob/main/twitter_data/twitter_profile_posts.json) for all details.
+👉 Only key fields are shown here. See the [full JSON response](https://github.com/luminati-io/Twitter-Scraper/blob/main/twitter_data/twitter_profile_posts.json) for all details. Try our dedicated [Twitter Profile Scraper](https://brightdata.com/products/web-scraper/twitter/profile) now. 
 
 ### 3. Date-Range Tweet Collection
 Retrieve posts within a specific date range.
