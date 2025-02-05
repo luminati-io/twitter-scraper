@@ -4,7 +4,7 @@
 
 This repository provides two distinct methods for collecting Twitter data:
 1. **Free Twitter Scraper**: For small-scale projects and learning
-2. **Enterprise Twitter Scraper API**: For production-grade data extraction
+2. [**Enterprise Twitter Scraper API**](https://brightdata.com/products/web-scraper/twitter): For production-grade data extraction
 
 ## Table of Contents
 1. [Free Twitter Scraper](#free-twitter-scraper)
@@ -91,13 +91,13 @@ A robust, scalable, and reliable solution for large-scale Twitter data extractio
 
 ### Key Features
 - **Scalable & Reliable:** Optimized for high-volume and real-time data collection
-- **Anti-Blocking:** Built-in proxy rotation and CAPTCHA solving
+- **Anti-Blocking:** Built-in [proxy rotation](https://brightdata.com/solutions/rotating-proxies) and [CAPTCHA solving](https://brightdata.com/products/web-unlocker/captcha-solver)
 - **Legal Compliance:** Fully GDPR and CCPA compliant
 - **Global Coverage:** Access data from any region or language
 - **Real-Time Data:** Fresh data with minimal latency
 - **Advanced Filtering:** Customize data extraction with precise filters
 - **Pay-as-You-Go:** Only pay for successful responses
-- **Free Trial:** Includes 20 free API calls to get started.
+- **Free Trial:** Includes 20 free API calls to get started
 - **Dedicated Support:** 24/7 technical assistance
 
 👉 **Learn more:** [Bright Data Twitter Scraper API](https://brightdata.com/products/web-scraper/twitter)
@@ -301,3 +301,12 @@ You can use the following parameters to fine-tune your results:
 - **API Documentation:** [Bright Data Docs](https://docs.brightdata.com/scraping-automation/web-scraper-api/trigger-a-collection)
 - **Scraping Best Practices:** [Avoid Getting Blocked](https://brightdata.com/blog/web-data/web-scraping-without-getting-blocked)
 - **Technical Support:** [Contact Us](mailto:support@brightdata.com)
+
+---
+
+**Interested in other scrapers? Check out the list below:**
+
+- [LinkedIn Scraper](https://github.com/luminati-io/LinkedIn-Scraper)
+- [Google News Scraper](https://github.com/luminati-io/Google-News-Scraper)
+- [Google Maps Scraper](https://github.com/luminati-io/Google-Maps-Scraper)
+- [Amazon Scraper](https://github.com/luminati-io/Amazon-scraper)
