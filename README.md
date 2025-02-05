@@ -1,4 +1,7 @@
 # Twitter Data Scraper
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/twitter)
+
 This repository provides two distinct methods for collecting Twitter data:
 1. **Free Twitter Scraper**: For small-scale projects and learning
 2. **Enterprise Twitter Scraper API**: For production-grade data extraction
