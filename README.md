@@ -153,7 +153,7 @@ posts = [
     }
 }
 ```
-👉 Only key fields are shown here. See the [full JSON response](https://github.com/triposat/Twitter-Scraper/blob/main/twitter_data/twitter_posts.json) for all details.
+👉 Only key fields are shown here. See the [full JSON response](https://github.com/luminati-io/Twitter-Scraper/blob/main/twitter_data/twitter_posts.json) for all details.
 
 ### 2. Scrape Profile Data
 Extract comprehensive profile information, including recent posts and engagement metrics.
@@ -215,7 +215,7 @@ profiles = [
     ],
 }
 ```
-👉 Only key fields are shown here. See the [full JSON response](https://github.com/triposat/Twitter-Scraper/blob/main/twitter_data/twitter_profile_posts.json) for all details.
+👉 Only key fields are shown here. See the [full JSON response](https://github.com/luminati-io/Twitter-Scraper/blob/main/twitter_data/twitter_profile_posts.json) for all details.
 
 ### 3. Date-Range Tweet Collection
 Retrieve posts within a specific date range.
@@ -274,7 +274,7 @@ profiles = [
     }
 }
 ```
-👉 Only key fields are shown here. See the [full JSON response](https://github.com/triposat/Twitter-Scraper/blob/main/twitter_data/twitter_date_range_posts.json) for all details.
+👉 Only key fields are shown here. See the [full JSON response](https://github.com/luminati-io/Twitter-Scraper/blob/main/twitter_data/twitter_date_range_posts.json) for all details.
 
 ## No-Code Scraper Option
 For users preferring a graphical interface, we offer a no-code solution through our control panel:
@@ -283,7 +283,7 @@ For users preferring a graphical interface, we offer a no-code solution through 
 - Automates the entire data collection process
 - Direct result download (multiple formats)
 
-For detailed instructions on using the no-code scraper, please visit our [Getting Started guide](https://github.com/triposat/Twitter-Scraper/blob/main/no-code-scraper.md).
+For detailed instructions on using the no-code scraper, please visit our [Getting Started guide](https://github.com/luminati-io/Twitter-Scraper/blob/main/no-code-scraper.md).
 
 
 ## Data Collection Approaches
