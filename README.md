@@ -1,4 +1,4 @@
-# Twitter Data Scraper
+# Twitter (X) Data Scraper by Bright Data
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/twitter)
 
